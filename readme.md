@@ -4,7 +4,7 @@
 
 GrimstoneOS is a Minecraft full GUI replacement that closely follows the design cues of Discord through the use of its color palette and I try to emulate its smooth SVG edges by using a relatively high resolution for a GUI pack
 
-Current supported version is **1.16.5**
+Current supported version is **1.21.5**
 
 **Every GUI menu replaced:**
 ![main](screenshots/main.png)
